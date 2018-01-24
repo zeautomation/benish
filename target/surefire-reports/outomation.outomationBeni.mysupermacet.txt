@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: outomation.outomationBeni.mysupermacet
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 15.389 s <<< FAILURE! - in outomation.outomationBeni.mysupermacet
+mysupermarket(outomation.outomationBeni.mysupermacet)  Time elapsed: 15.389 s  <<< ERROR!
+java.lang.NullPointerException
+	at outomation.outomationBeni.mysupermacet.mysupermarket(mysupermacet.java:18)
+

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: upstartTest.addEntitySolution
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.6 s <<< FAILURE! - in upstartTest.addEntitySolution
+startTest(upstartTest.addEntitySolution)  Time elapsed: 3.6 s  <<< ERROR!
+java.lang.NullPointerException
+	at upstartTest.addEntitySolution.startTest(addEntitySolution.java:12)
+

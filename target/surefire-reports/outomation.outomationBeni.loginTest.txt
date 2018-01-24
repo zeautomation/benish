@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: outomation.outomationBeni.loginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 32.932 s <<< FAILURE! - in outomation.outomationBeni.loginTest
+login(outomation.outomationBeni.loginTest)  Time elapsed: 32.932 s  <<< ERROR!
+java.lang.NullPointerException
+	at outomation.outomationBeni.loginTest.login(loginTest.java:21)
+
